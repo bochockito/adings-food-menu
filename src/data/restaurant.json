@@ -1,0 +1,11 @@
+{
+    "restaurantName": "Nanay Nena's Karenderia",
+    "tagline": "Lutong Bahay na Abot Kaya",
+    "heroImage": "/images/hero.jpg",
+
+    "contact": {
+        "phone": "+63 917 123 4567",
+        "email": "nanaynena@gmail.com",
+        "facebook": "https://facebook.com/ronseminiano"
+    }
+}
