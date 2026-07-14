@@ -19,7 +19,7 @@ export default function Hero() {
                 </h2>
 
                 <p className="mt-4 text-xl">
-                    Masarap • Presko • Sulit
+                    Masarap • Bago • Sulit
                 </p>
 
             </div>
