@@ -1,23 +1,50 @@
 [
   {
     "id": 1,
-    "name": "Adobong Manok",
-    "price": 90,
-    "image": "/images/adobo.jpg",
-    "description": "Classic Filipino chicken adobo"
+    "name": "ドライカレー (Giniling Dried Curry)",
+    "price": 110.00,
+    "image": "/images/giniling-dried-curry.jpg",
+    "description": "A unique twist on 'Giniling', the traditional Filipino ground meat dish, reimagined as a spicy and aromatic dry curry.",
+    "japdesc": "フィリピンの伝統的なひき肉料理「ギニリン」を、スパイシーで香り豊かなドライカレー風にアレンジした創作料理です。",
+    "type": [
+        "Set (Rice, Ulam, Gulay)"
+    ],
+    "ingredients": [
+        "Ground Beef",
+        "Bell Pepper",
+        "Japanese Curry Powder"
+    ]
   },
   {
     "id": 2,
-    "name": "Pork Sinigang",
-    "price": 110,
-    "image": "/images/sinigang.jpg",
-    "description": "Tamarind soup with vegetables"
+    "name": "肉じゃが (Niku Jyaga)",
+    "price": 120.00,
+    "image": "/images/niku-jyaga.jpg",
+    "description": "Nikujaga is a classic, representative Japanese home-cooked simmered dish (nimono).",
+    "japdesc": "肉じゃがは、日本の家庭料理を代表する定番の煮物料理です。",
+    "type": [
+        "Set (Rice, Ulam, Gulay)",
+        "Ala-carte"
+    ],
+    "ingredients": [
+        "Thinly sliced Beef",
+        "Potatoes",
+        "Onion"
+    ]
   },
   {
     "id": 3,
-    "name": "Lechon Kawali",
-    "price": 120,
+    "name": "豚カルビ丼 (Buta Calbi Don)",
+    "price": 120.00,
     "image": "/images/lechon-kawali.jpg",
-    "description": "Crispy fried pork belly"
+    "description": "Buta Karubi Don is a hearty, highly satisfying rice bowl topped with juicy, flavorful slices of pork belly.",
+    "japdesc": "豚カルビ丼は、ジューシーで旨味たっぷりの豚バラ肉を贅沢に乗せた、ボリューム満点で大満足の丼ぶりものです。",
+    "type": [
+        "Set (Rice, Ulam, Gulay)"
+    ],
+    "ingredients": [
+        "Thinly Sliced Pork",
+        "Onion"
+    ]
   }
 ]
