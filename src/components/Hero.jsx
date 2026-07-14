@@ -5,7 +5,7 @@ export default function Hero() {
     <div
         className="h-[400px] bg-cover bg-center relative"
         style={{
-            backgroundImage: `url(${restaurant.heroImage})`
+            backgroundImage: `url(${import.meta.env.BASE_URL}${restaurant.heroImage})`
         }}
     >
         <div className="absolute inset-0 bg-black/50" />

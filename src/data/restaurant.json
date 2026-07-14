@@ -1,7 +1,7 @@
 {
     "restaurantName": "Adings Filipino Japanese Cuisine",
     "tagline": "Lutong Bahay na Abot Kaya",
-    "heroImage": "/images/hero.jpg",
+    "heroImage": "images/hero.jpeg",
 
     "contact": {
         "phone": "+63 919-4777-194",
