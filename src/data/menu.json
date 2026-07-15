@@ -4,13 +4,13 @@
     "name": "ドライカレー (Giniling Dried Curry)",
     "price": 110.00,
     "image": "images/giniling-dried-curry.jpg",
-    "description": "A unique twist on 'Giniling', the traditional Filipino ground meat dish, reimagined as a spicy and aromatic dry curry.",
+    "description": "A unique twist on 'Giniling', the traditional Filipino ground meat dish, reimagined as a aromatic dry curry.",
     "japdesc": "フィリピンの伝統的なひき肉料理「ギニリン」を、スパイシーで香り豊かなドライカレー風にアレンジした創作料理です。",
     "type": [
         "Set (Rice, Ulam, Gulay)"
     ],
     "ingredients": [
-        "Ground Beef",
+        "Ground Pork",
         "Bell Pepper",
         "Japanese Curry Powder"
     ]
