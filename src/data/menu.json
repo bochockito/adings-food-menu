@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "ドライカレー (Giniling Dried Curry)",
-    "price": 110.00,
+    "price": 80.00,
     "image": "images/giniling-dried-curry.jpg",
     "description": "A unique twist on 'Giniling', the traditional Filipino ground meat dish, reimagined as a aromatic dry curry.",
     "japdesc": "フィリピンの伝統的なひき肉料理「ギニリン」を、スパイシーで香り豊かなドライカレー風にアレンジした創作料理です。",
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "name": "肉じゃが (Niku Jyaga)",
-    "price": 120.00,
+    "price": 80.00,
     "image": "images/niku-jyaga.jpg",
     "description": "Nikujaga is a classic, representative Japanese home-cooked simmered dish (nimono).",
     "japdesc": "肉じゃがは、日本の家庭料理を代表する定番の煮物料理です。",
@@ -35,7 +35,7 @@
   {
     "id": 3,
     "name": "豚カルビ丼 (Buta Calbi Don)",
-    "price": 120.00,
+    "price": 80.00,
     "image": "images/buta-calbi-don.jpg",
     "description": "Buta Karubi Don is a hearty, highly satisfying rice bowl topped with juicy, flavorful slices of pork belly.",
     "japdesc": "豚カルビ丼は、ジューシーで旨味たっぷりの豚バラ肉を贅沢に乗せた、ボリューム満点で大満足の丼ぶりものです。",
